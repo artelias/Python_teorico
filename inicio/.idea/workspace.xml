@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43b46839-79db-466c-9315-11a435aee882" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="inicio">
+      <favorite_root url="file://$USER_HOME$/Downloads/lutadores.csv" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+    <favorites_list name="Unnamed" />
+    <favorites_list name="ciencia_de_dados">
+      <favorite_root url="file://$PROJECT_DIR$/lendo_CSV.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$USER_HOME$/Downloads/lutadores.csv" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VUwyFDDjLIrg9qmYHCLwNChrpD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="ToolWindowFind.ShowToolbar" value="false" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/lutadores.csv" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.21283096" />
+  </component>
+  <component name="RunManager" selected="Python.matematica_e_estatistica">
+    <configuration name="aula03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inicio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tipagem de dados" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tipagem de dados/aula03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inicio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tipagem de dados" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tipagem de dados/aula04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matematica_e_estatistica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inicio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matematica_e_estatistica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pep8" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="inicio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pep8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest soma" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="inicio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doctestes.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="soma" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testes.atividadestestes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="inicio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testes.atividadestestes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.matematica_e_estatistica" />
+        <item itemvalue="Python.aula04" />
+        <item itemvalue="Python.aula03" />
+        <item itemvalue="Python tests.Unittests for testes.atividadestestes" />
+        <item itemvalue="Python tests.Doctest soma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43b46839-79db-466c-9315-11a435aee882" name="Default Changelist" comment="" />
+      <created>1577321234851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577321234851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="199" key="#Inspections" timestamp="1616680183232">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="199" key="#Inspections/1982.59.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1616680183232" />
+    <state x="-1230" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616632409564">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616632409564" />
+    <state x="433" y="0" key="#objetos" timestamp="1616462739835">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="433" y="0" key="#objetos/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616462739835" />
+    <state x="-1001" y="105" key="FileChooserDialogImpl" timestamp="1616631255837">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state x="-1001" y="105" key="FileChooserDialogImpl/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616631255837" />
+    <state x="542" y="46" key="FileChooserDialogImpl/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616462804107" />
+    <state width="965" height="231" key="GridCell.Tab.0.bottom" timestamp="1617213483966">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1837" height="294" key="GridCell.Tab.0.bottom/1982.59.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1616777608488" />
+    <state width="1899" height="128" key="GridCell.Tab.0.bottom/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616679606336" />
+    <state width="1283" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616462899386" />
+    <state width="965" height="231" key="GridCell.Tab.0.bottom/62.0.2498.1080@62.0.2498.1080" timestamp="1617213483966" />
+    <state width="965" height="231" key="GridCell.Tab.0.center" timestamp="1617213483966">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1837" height="294" key="GridCell.Tab.0.center/1982.59.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1616777608488" />
+    <state width="1899" height="128" key="GridCell.Tab.0.center/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616679606336" />
+    <state width="1283" height="192" key="GridCell.Tab.0.center/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616462899385" />
+    <state width="965" height="231" key="GridCell.Tab.0.center/62.0.2498.1080@62.0.2498.1080" timestamp="1617213483966" />
+    <state width="965" height="231" key="GridCell.Tab.0.left" timestamp="1617213483966">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1837" height="294" key="GridCell.Tab.0.left/1982.59.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1616777608488" />
+    <state width="1899" height="128" key="GridCell.Tab.0.left/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616679606335" />
+    <state width="1283" height="192" key="GridCell.Tab.0.left/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616462899385" />
+    <state width="965" height="231" key="GridCell.Tab.0.left/62.0.2498.1080@62.0.2498.1080" timestamp="1617213483966" />
+    <state width="965" height="231" key="GridCell.Tab.0.right" timestamp="1617213483966">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="1837" height="294" key="GridCell.Tab.0.right/1982.59.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1616777608488" />
+    <state width="1899" height="128" key="GridCell.Tab.0.right/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616679606336" />
+    <state width="1283" height="192" key="GridCell.Tab.0.right/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616462899385" />
+    <state width="965" height="231" key="GridCell.Tab.0.right/62.0.2498.1080@62.0.2498.1080" timestamp="1617213483966" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1616522108706">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616522108706" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1616522108706">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616522108706" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1616522108706">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616522108706" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1616522108706">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616522108706" />
+    <state x="-1280" y="6" key="SettingsEditor" timestamp="1616509907703">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state x="-1280" y="6" key="SettingsEditor/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616509907703" />
+    <state x="-1290" y="41" key="SettingsEditor/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616462855395" />
+    <state x="654" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1617206469931">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="502" y="284" key="com.intellij.ide.util.TipDialog/1982.59.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1616769550235" />
+    <state x="-1465" y="215" key="com.intellij.ide.util.TipDialog/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616624208791" />
+    <state x="415" y="209" key="com.intellij.ide.util.TipDialog/62.0.1304.768/-1920.-59.1920.1040@62.0.1304.768" timestamp="1616461830642" />
+    <state x="371" y="202" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1617118806620" />
+    <state x="654" y="284" key="com.intellij.ide.util.TipDialog/62.0.2498.1080@62.0.2498.1080" timestamp="1617206469931" />
+    <state x="-1368" y="121" key="scopes" timestamp="1616631566969">
+      <screen x="-1920" y="-59" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="121" key="scopes/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616631566969" />
+    <state x="873" y="234" width="904" height="705" key="search.everywhere.popup" timestamp="1617213180026">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="665" y="234" width="672" height="705" key="search.everywhere.popup/1982.59.1304.768/62.0.1858.1080@62.0.1858.1080" timestamp="1616686329274" />
+    <state x="-1297" y="166" width="672" height="678" key="search.everywhere.popup/62.0.1304.768/-1920.-59.1920.1040@-1920.-59.1920.1040" timestamp="1616630842657" />
+    <state x="873" y="234" width="904" height="705" key="search.everywhere.popup/62.0.2498.1080@62.0.2498.1080" timestamp="1617213180026" />
+  </component>
+</project>
